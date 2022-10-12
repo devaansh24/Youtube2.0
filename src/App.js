@@ -14,7 +14,6 @@ const App = () => (
         <Route path="/search/:searchTerm" element={<SearchFeed />} />
       </Routes>
     </Box>
-    App
   </BrowserRouter>
 );
 
